@@ -1,0 +1,6 @@
+id,title,abstract,claims,publication_date
+1,Energy-Efficient Packet Scheduling,"A method for scheduling packets in wireless networks to reduce power usage by dynamically adjusting duty cycle based on traffic patterns.","1. A method for scheduling packets ...",2020-05-10
+2,Low-Power ALU Architecture,"An arithmetic logic unit that reduces switching power using operand gating and optimized adder trees.","1. An ALU with operand gating ...",2019-11-21
+3,Fast-Charging EV Battery,"A battery cell design and charging algorithm that reduces charging time using staged current profiles.","1. A battery charging method ...",2021-03-15
+4,Context-Aware Recommendation System,"A recommendation system that incorporates temporal context and user micro-behavior to improve relevancy.","1. A system for generating recommendations ...",2022-07-30
+5,Secure Edge Containerization,"A container isolation method for edge nodes that reduces attack surface by syscall filtering and capability limiting.","1. A container isolation method ...",2018-09-12
