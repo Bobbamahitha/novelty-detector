@@ -44,23 +44,40 @@ Output will print top matches and candidate novel terms and will create novelty_
 
 **Terminal output**
 Top matches:
+
 1 0.5874892077791422
+
 3 0.16577017249717974
+
 4 0.04897585294217635
 
 Candidate novel terms:
 cycle 0.227511 0.272686 0.045175
+
 duty 0.227511 0.272686 0.045175
+
 duty cycle 0.227511 0.272686 0.045175
+
 dynamically 0.227511 0.272686 0.045175
+
 energy 0.227511 0.272686 0.045175
+
 packet 0.227511 0.272686 0.045175
+
 algorithm 0.227134 0.272686 0.045552
+
 aware 0.212818 0.272686 0.059868
+
 method scheduling 0.182336 0.272686 0.09035
+
 packets 0.182336 0.272686 0.09035
+
 scheduling packets 0.182336 0.272686 0.09035
+
 scheduling 0.13716 0.272686 0.135526
+
 battery 0.13603 0.272686 0.136656
+
 method 0.091606 0.182621 0.091015
+
 Wrote report to: novelty_report.md
